@@ -7,6 +7,8 @@
 //
 
 import SwiftUI
+import Combine
+import Foundation
 
 struct ContentView: View {
     
